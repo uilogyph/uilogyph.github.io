@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uilogyph.github.io/sitemap.html.gz
+Sitemap: https://uilogyph.github.io/app/sitemap.html.gz
+Sitemap: https://uilogyph.github.io/assets/sitemap.html.gz
+Sitemap: https://uilogyph.github.io/css/sitemap.html.gz
+Sitemap: https://uilogyph.github.io/data/sitemap.html.gz
+Sitemap: https://uilogyph.github.io/includes/sitemap.html.gz
+Sitemap: https://uilogyph.github.io/item/sitemap.html.gz
+Sitemap: https://uilogyph.github.io/src/sitemap.html.gz
